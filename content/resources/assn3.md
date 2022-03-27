@@ -8,6 +8,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Study Materials
 parent_type: CourseSection
+parent_uid: a5df2223-227d-437c-77d1-a32d54b6d73f
 resourcetype: Document
 title: assn3.pdf
 uid: 9bcac370-24b0-53c3-2a00-923ca3966682
