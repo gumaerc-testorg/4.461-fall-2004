@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides an outline of course principles, scope,
+  values, and intended results.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
