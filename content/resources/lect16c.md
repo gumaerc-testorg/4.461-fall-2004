@@ -5,6 +5,7 @@ file: /courses/4-461-building-technology-i-materials-and-construction-fall-2004/
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: lect16c.pdf
 uid: 2c2279ab-0c71-16a0-c60b-094f0e285ed1
 ---
 Outline of topics covered in the lecture.
-
