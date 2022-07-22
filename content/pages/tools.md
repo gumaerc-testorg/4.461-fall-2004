@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides information on a interactive learning tool that
+  explains structures and structural forces.
+learning_resource_types:
+- Tools
+ocw_type: CourseSection
 title: Tools
 uid: a4e47f84-17ff-da3a-0816-4a9a72f28c13
 ---
