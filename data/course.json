@@ -15,11 +15,6 @@
       "Structural Engineering"
     ],
     [
-      "Engineering",
-      "Civil Engineering",
-      "Structural Engineering"
-    ],
-    [
       "Fine Arts",
       "Architecture",
       "Architectural Engineering"
@@ -50,6 +45,7 @@
   "learning_resource_types": [
     "Lecture Notes"
   ],
-  "site_uid": "84c38995-dffc-45d9-82bd-391921cb99a3",
+  "site_uid": "0b04a85d-11ac-425c-a0fd-9cebff52cc1c",
+  "site_short_id": "4.461-fall-2004",
   "title": "Course Metadata"
 }
