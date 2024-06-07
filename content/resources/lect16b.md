@@ -2,6 +2,7 @@
 content_type: resource
 description: Outline of topics covered in the lecture.
 file: /courses/4-461-building-technology-i-materials-and-construction-fall-2004/5dfc0d96948c208e9ce4fe44e4c9c451_lect16b.pdf
+file_size: 1496102
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
