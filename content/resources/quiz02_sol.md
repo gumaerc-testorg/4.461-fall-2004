@@ -2,6 +2,7 @@
 content_type: resource
 description: Solutions to Quiz 2 questions.
 file: /courses/4-461-building-technology-i-materials-and-construction-fall-2004/8ddc1345166ea88664b201e22ffd87a9_quiz02_sol.pdf
+file_size: 658508
 file_type: application/pdf
 learning_resource_types: []
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
