@@ -77,7 +77,7 @@ Wood 1
 {{< tdclose >}}{{< tdopen >}}
 
 - [*State of the World's Forests*](http://www.fao.org/docrep/meeting/007/y9203e/y9203e06.htm#TopOfPage). FAO, 2003.
-- [*Wood Handbook: Wood as an Engineering Material*](http://www.fpl.fs.fed.us/documnts/fplgtr/fplgtr113/fplgtr113.htm). Madison, Wisconsin: Forest Products Laboratory, USDA Forest Service, 1999. Chapters 1, 4, and 10.
+- [*Wood Handbook: Wood as an Engineering Material* (PDF)](https://www.fpl.fs.usda.gov/documnts/fplgtr/fpl_gtr190.pdf). Madison, Wisconsin: Forest Products Laboratory, USDA Forest Service, 1999. Chapters 1, 4, and 10.
 - Matthews, Emily, and Allen Hammond. *Critical Consumption Trends and Implications: Degrading Earth's Ecosystems*. World Resources Institute, 1999. Chapter 2. ISBN: 1569734100.
 
 ### Optional Readings:
