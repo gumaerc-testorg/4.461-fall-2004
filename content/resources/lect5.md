@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Outline of topics covered in the lecture.
-file: /ol-ocw-studio-app/courses/4-461-building-technology-i-materials-and-construction-fall-2004/e7d3d435502db90b1bdb515bf61ed6f7_lect5.pdf
+file: /courses/4-461-building-technology-i-materials-and-construction-fall-2004/e7d3d435502db90b1bdb515bf61ed6f7_lect5.pdf
 file_size: 648558
 file_type: application/pdf
 learning_resource_types:
