@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Quiz consisting of true/false, short answer, and long answer sections.
-file: /ol-ocw-studio-app/courses/4-461-building-technology-i-materials-and-construction-fall-2004/b8317205a9b8e3ec128208b8bd8296d5_quiz02.pdf
+file: /courses/4-461-building-technology-i-materials-and-construction-fall-2004/b8317205a9b8e3ec128208b8bd8296d5_quiz02.pdf
 file_size: 529784
 file_type: application/pdf
 learning_resource_types: []
