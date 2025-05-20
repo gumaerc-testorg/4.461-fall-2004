@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Study guide for Quiz 2.
-file: /ol-ocw-studio-app/courses/4-461-building-technology-i-materials-and-construction-fall-2004/3f432c3ecf35232d0b5963c37e6b45cd_quiz2_material.pdf
+file: /courses/4-461-building-technology-i-materials-and-construction-fall-2004/3f432c3ecf35232d0b5963c37e6b45cd_quiz2_material.pdf
 file_size: 10688
 file_type: application/pdf
 learning_resource_types: []
