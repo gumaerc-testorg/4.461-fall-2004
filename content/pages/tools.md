@@ -9,7 +9,7 @@ title: Tools
 uid: a4e47f84-17ff-da3a-0816-4a9a72f28c13
 ---
 
-[Java® plug-in software](http://java.sun.com/products/plugin/) is required to run the Java® files in this section.
+{{% resource_link "e0eb4566-ccc5-4908-9c22-30fcb0f4c64c" "Java® plug-in software" %}} is required to run the Java® files in this section.
 
 The following link opens a new window which contains interactive demonstrations on statics:
 
