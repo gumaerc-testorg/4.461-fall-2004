@@ -76,14 +76,14 @@ Wood 1
 
 {{< tdclose >}}{{< tdopen >}}
 
-- {{% resource_link "897b457d-0ac3-41db-8915-278dd5f9d78f" "*State of the World's Forests*" %}}. FAO, 2003.
-- {{% resource_link "9f48b113-74e4-4113-861b-ca9c22bc5e2a" "*Wood Handbook: Wood as an Engineering Material* (PDF)" %}}. Madison, Wisconsin: Forest Products Laboratory, USDA Forest Service, 1999. Chapters 1, 4, and 10.
+- [*State of the World's Forests*](http://www.fao.org/docrep/meeting/007/y9203e/y9203e06.htm#TopOfPage). FAO, 2003.
+- [*Wood Handbook: Wood as an Engineering Material* (PDF)](https://www.fpl.fs.usda.gov/documnts/fplgtr/fpl_gtr190.pdf). Madison, Wisconsin: Forest Products Laboratory, USDA Forest Service, 1999. Chapters 1, 4, and 10.
 - Matthews, Emily, and Allen Hammond. *Critical Consumption Trends and Implications: Degrading Earth's Ecosystems*. World Resources Institute, 1999. Chapter 2. ISBN: 1569734100.
 
 ### Optional Readings:
 
-- Wood Fiber Consumption and the World's Forests ({{% resource_link "7c81a7cd-1b0d-4efe-b489-68535f92ba01" "PDF" %}})
-- {{% resource_link "f7ca8b03-6f4a-47e7-893b-20b239109e9a" "United Nations System-Wide Earthwatch: Forests - Forest Loss" %}}
+- Wood Fiber Consumption and the World's Forests ([PDF](http://kswild.org/use/critcons_fiber.pdf/))
+- [United Nations System-Wide Earthwatch: Forests - Forest Loss](http://yabaha.net/dahl/earthw/em11.htm)
 - Tucker, C., Steininger, M., and Slayback, D. "Measuring the State of the World's Forests. An Introduction to the Scientific Analysis of Forest Cover and Forest Loss." New York: Environmental Defense Fund, 2001.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
@@ -94,15 +94,15 @@ Active Statics
 
 - Fridley, Kenneth J. "Wood and Wood-Based Materials: Current Status and Future of a Structural Material." *Journal of Materials in Civil Engineering* (March-April 2002): 91-96.
 - Haller, P, J. Wehsener, P. Offermann, G. Franzke, and T. Engler. "Reinforcement of Timber Joints with Load-adapted Textile Structures." 
-- {{% resource_link "5e71a49d-a98c-4a7f-adb5-efa896ee6022" "*Wood Focus Oy*" %}}. Lathi, Finland: November 7th 2001.
-- Case Study: "Glulam Beams Keep Duck Fans Dry: University of Oregon's Autzen Stadium Renovation" {{% resource_link "6e89e32e-f889-4439-9bde-ad64c72e0047" "APA: The Engineered Wood Association" %}}, 2002.
-- Case Study: "REI: A Store with an Environmental Conscience." {{% resource_link "6e89e32e-f889-4439-9bde-ad64c72e0047" "APA: The Engineered Wood Association" %}}, 1997.
-- Case Study: "Disney Ice: The Warmth of Wood Heats Up an Anaheim Ice Rink." {{% resource_link "6e89e32e-f889-4439-9bde-ad64c72e0047" "APA: The Engineered Wood Association" %}}, 2002.
+- [*Wood Focus Oy*](http://www.kauppalehti.fi/yritykset/yritys/wood+focus+oy/16383704). Lathi, Finland: November 7th 2001.
+- Case Study: "Glulam Beams Keep Duck Fans Dry: University of Oregon's Autzen Stadium Renovation" [APA: The Engineered Wood Association](https://www.apawood.org/), 2002.
+- Case Study: "REI: A Store with an Environmental Conscience." [APA: The Engineered Wood Association](https://www.apawood.org/), 1997.
+- Case Study: "Disney Ice: The Warmth of Wood Heats Up an Anaheim Ice Rink." [APA: The Engineered Wood Association](https://www.apawood.org/), 2002.
 
 ### *Optional Readings:*
 
-- APA Product Guide: Structural Insulated Panels ({{% resource_link "4b789d61-5a44-48b6-9578-34862595ca59" "PDF" %}})
-- {{% resource_link "bc7762a6-8a50-40cd-9b18-b1641ae84660" "Wooden Tower, Helsinki Zoo" %}} (Case Study)
+- APA Product Guide: Structural Insulated Panels ([PDF](https://www.sips.org/technical-information/apa-structural-insulated-panels-product-guide-pdf))
+- [Wooden Tower, Helsinki Zoo](http://www.lusas.com/case/civil/wooden_tower.html) (Case Study)
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
@@ -130,7 +130,7 @@ Quiz 2
 
 ### *Optional Readings:*
 
-- *Aluminum Now* Online: "{{% resource_link "2522a874-a901-4618-a99b-b3e98e58ac45" "All That Glitters is Green: Aluminum Roof Chips Reflect Heat, Reduce Ozone and Energy Bills" %}}."
+- *Aluminum Now* Online: "[All That Glitters is Green: Aluminum Roof Chips Reflect Heat, Reduce Ozone and Energy Bills](https://studylib.net/doc/13479100/all-that-glitters-is-green--energy-bills)."
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 15
